@@ -1,0 +1,3 @@
+Total objects: 7136
+Total terms: 2461
+Failed requests: 4675

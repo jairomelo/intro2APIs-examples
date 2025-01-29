@@ -1,0 +1,1726 @@
+Source,Target,Weight
+Achilles,Centaurs,1
+Achilles,Horses,1
+Achilles,Men,1
+Achilles,Tents,1
+Achilles,Trojan War,1
+Adam,Angels,1
+Adam,Christ,2
+Adam,Crucifixion,2
+Adam,Eve,6
+Adam,Nativity,1
+Adam,Virgin Mary,1
+Adam,Working,1
+Adoration of the Magi,Adoration of the Shepherds,2
+Adoration of the Magi,Angels,4
+Adoration of the Magi,Annunciation,5
+Adoration of the Magi,Beds,1
+Adoration of the Magi,Christ,8
+Adoration of the Magi,Crucifixion,6
+Adoration of the Magi,Dogs,1
+Adoration of the Magi,Jesus,6
+Adoration of the Magi,Nativity,3
+Adoration of the Magi,Saints,3
+Adoration of the Magi,Soldiers,1
+Adoration of the Magi,Virgin Mary,9
+Adoration of the Magi,Visitation,1
+Adoration of the Magi,Women,1
+Adoration of the Shepherds,Adoration of the Magi,1
+Adoration of the Shepherds,Angels,2
+Adoration of the Shepherds,Annunciation,2
+Adoration of the Shepherds,Archangel Gabriel,1
+Adoration of the Shepherds,Christ,3
+Adoration of the Shepherds,Crucifixion,1
+Adoration of the Shepherds,Nativity,1
+Adoration of the Shepherds,Virgin Mary,3
+Agony in the Garden,Animals,1
+Agony in the Garden,Christ,1
+Agony in the Garden,Crucifixion,1
+Agony in the Garden,Last Supper,1
+Agony in the Garden,Men,1
+Agony in the Garden,Women,1
+Agriculture,Eve,1
+Ahasuerus,Dining,1
+Ahasuerus,Men,1
+Alexander The Great,Aristotle,1
+Alexander The Great,Dogs,1
+Alexander The Great,Horses,1
+Alexander The Great,Knights,1
+Alexander The Great,Lions,1
+Alexander The Great,Profiles,1
+Alexander The Great,Unicorns,1
+Alexander The Great,Women,1
+Allegory,Deer,1
+Allegory,Dogs,1
+Allegory,Horns,1
+Allegory,Hunting,1
+Allegory,Women,1
+Altars,Bishops,1
+Altars,Ceres,1
+Altars,Jesus,1
+Altars,Kings,1
+Altars,Men,2
+Altars,Women,1
+Amulets,Medallions,1
+Angels,Adoration of the Magi,2
+Angels,Adoration of the Shepherds,1
+Angels,Annunciation,4
+Angels,Apostles,4
+Angels,Archangel Gabriel,1
+Angels,Assumption of the Virgin,1
+Angels,Birds,2
+Angels,Censers,1
+Angels,Christ,52
+Angels,Coat of Arms,2
+Angels,Coronation of the Virgin,1
+Angels,Cross,6
+Angels,Crowns,1
+Angels,Crucifixion,14
+Angels,David,1
+Angels,Descent from the Cross,1
+Angels,Donkeys,3
+Angels,Doors,1
+Angels,Doves,1
+Angels,Dragons,1
+Angels,Eagles,1
+Angels,Evangelists,2
+Angels,Faces,1
+Angels,Goats,1
+Angels,God the Father,2
+Angels,Jesus,7
+Angels,Last Judgement,1
+Angels,Lions,1
+Angels,Madonna and Child,7
+Angels,Men,11
+Angels,Moses,1
+Angels,Music,1
+Angels,Mythical Creatures,1
+Angels,Nativity,2
+Angels,Noah,1
+Angels,Reliquaries,1
+Angels,Saint Francis,2
+Angels,Saint John,2
+Angels,Saint John the Baptist,1
+Angels,Saint John the Evangelist,2
+Angels,Saint Joseph,1
+Angels,Saint Mark,2
+Angels,Saint Matthew,2
+Angels,Saint Paul,1
+Angels,Saint Peter,1
+Angels,Saints,8
+Angels,Sheep,1
+Angels,Shields,2
+Angels,Soldiers,1
+Angels,Swords,1
+Angels,Unicorns,1
+Angels,Virgin Mary,47
+Angels,Visitation,2
+Angels,Women,7
+Animals,Angels,3
+Animals,Annunciation,1
+Animals,Apostles,1
+Animals,Birds,7
+Animals,Boats,1
+Animals,Bow and Arrow,1
+Animals,Children,2
+Animals,Christ,2
+Animals,Coat of Arms,1
+Animals,Cross,2
+Animals,Crucifixion,2
+Animals,Dancers,1
+Animals,Faces,1
+Animals,Flowers,2
+Animals,Herod,1
+Animals,Horses,1
+Animals,Human Figures,5
+Animals,Hunting,3
+Animals,Last Supper,1
+Animals,Leaves,1
+Animals,Male Nudes,1
+Animals,Medallions,1
+Animals,Men,16
+Animals,Musicians,1
+Animals,Rams,1
+Animals,Saints,1
+Animals,Tables,1
+Animals,Vines,1
+Animals,Virgin Mary,1
+Animals,Weapons,1
+Animals,Women,4
+Annunciation,Adoration of the Magi,1
+Annunciation,Angels,12
+Annunciation,Baptism of Christ,1
+Annunciation,Christ,7
+Annunciation,Crucifixion,5
+Annunciation,Demons,1
+Annunciation,Doves,1
+Annunciation,Evangelists,1
+Annunciation,Jesus,1
+Annunciation,Last Supper,1
+Annunciation,Nativity,5
+Annunciation,Resurrection,1
+Annunciation,Saint John the Baptist,1
+Annunciation,Saint John the Evangelist,1
+Annunciation,Soldiers,1
+Annunciation,Virgin Mary,15
+Annunciation,Visitation,2
+Apostles,Agony in the Garden,1
+Apostles,Angels,1
+Apostles,Crucifixion,2
+Apostles,Death,1
+Apostles,Jesus,1
+Apostles,Madonna and Child,1
+Apostles,Saint Peter,1
+Apostles,Saints,3
+Apostles,Virgin Mary,1
+Apples,Madonna and Child,1
+Apples,Roses,1
+Archangel Gabriel,Angels,1
+Archangel Gabriel,Annunciation,4
+Archangel Gabriel,Doves,1
+Archangel Gabriel,Virgin Mary,2
+Aristotle,Dogs,1
+Aristotle,Horses,1
+Aristotle,Knights,1
+Aristotle,Lions,1
+Aristotle,Unicorns,1
+Aristotle,Women,1
+Armor,Cows,1
+Armor,David,1
+Armor,Diana,1
+Armor,Hercules,1
+Armor,Juno,1
+Armor,Warriors,1
+Bagpipes,Sheep,1
+Baptism of Christ,Angels,1
+Baptism of Christ,Christ,1
+Baptism of Christ,Last Supper,1
+Baptism of Christ,Saints,1
+Baptism of Christ,Writing,1
+Baptismal Fonts,Saints,1
+Bats,Elephants,1
+Bats,Men,1
+Bats,Roosters,1
+Bats,Trumpets,1
+Bats,Women,1
+Battles,Achilles,1
+Battles,Centaurs,1
+Battles,David,1
+Battles,Dragons,1
+Battles,Horses,2
+Battles,Men,4
+Battles,Soldiers,1
+Battles,Swords,2
+Battles,Tents,1
+Battles,Trojan War,1
+Battles,Weapons,1
+Bearing the Cross,Annunciation,1
+Bearing the Cross,Christ,4
+Bearing the Cross,Crucifixion,4
+Bearing the Cross,Descent from the Cross,1
+Bearing the Cross,Entombment,2
+Bearing the Cross,Men,2
+Bearing the Cross,Pilate,1
+Bearing the Cross,Saint John the Baptist,1
+Bearing the Cross,Saint John the Evangelist,1
+Bearing the Cross,Women,1
+Bedrooms,Armor,1
+Bedrooms,Cows,1
+Bedrooms,Diana,1
+Bedrooms,Hercules,1
+Bedrooms,Juno,1
+Beds,Birth,1
+Beds,Infants,1
+Beds,Saint Anne,1
+Beds,Virgin Mary,1
+Beds,Women,1
+Birds,Amulets,1
+Birds,Angels,2
+Birds,Animals,2
+Birds,Apostles,2
+Birds,Boats,1
+Birds,Bow and Arrow,2
+Birds,Camels,1
+Birds,Christ,1
+Birds,Coat of Arms,1
+Birds,Cross,1
+Birds,Crucifixion,1
+Birds,Cupid,1
+Birds,Deer,5
+Birds,Dogs,4
+Birds,Dragons,1
+Birds,Drinking,1
+Birds,Elephants,1
+Birds,Faces,2
+Birds,Flowers,5
+Birds,Hawks,2
+Birds,Heads,1
+Birds,Horses,2
+Birds,Human Figures,1
+Birds,Hunting,2
+Birds,Lamentation,1
+Birds,Leaves,3
+Birds,Lions,1
+Birds,Lotuses,2
+Birds,Madonna and Child,1
+Birds,Masks,3
+Birds,Medallions,1
+Birds,Men,7
+Birds,Monkeys,1
+Birds,Music,2
+Birds,Owls,1
+Birds,Pheasants,1
+Birds,Pinecones,1
+Birds,Putti,1
+Birds,Queens,1
+Birds,Rabbits,1
+Birds,Rams,1
+Birds,Sculpture,4
+Birds,Sheep,1
+Birds,Trees,1
+Birds,Unicorns,1
+Birds,Vines,2
+Birds,Virgin Mary,2
+Birds,Women,7
+Birds,Wreaths,1
+Bishops,Angels,1
+Bishops,Baptism of Christ,1
+Bishops,Ceres,1
+Bishops,Chess,1
+Bishops,Christ,1
+Bishops,Games,1
+Bishops,Men,3
+Bishops,Queens,1
+Bishops,Saint Christopher,1
+Bishops,Saints,2
+Bishops,Writing,1
+Boars,Animals,1
+Boars,Dogs,2
+Boars,Eagles,1
+Boats,Deer,1
+Boats,Dogs,1
+Boats,Games,1
+Boats,Women,1
+Books,Grapes,1
+Books,Jesus,1
+Books,Keys,1
+Books,Madonna and Child,1
+Books,Portraits,1
+Books,Virgin Mary,1
+Books,Wine,1
+Bow and Arrow,Amazons,1
+Bow and Arrow,Centaurs,1
+Bow and Arrow,Hunting,1
+Bow and Arrow,Men,4
+Bow and Arrow,Rams,1
+Bow and Arrow,Saints,1
+Boys,Angels,1
+Boys,Dogs,1
+Boys,Flowers,1
+Boys,Games,2
+Boys,Horns,1
+Boys,Playing,2
+Boys,Saints,1
+Boys,Women,1
+Bulls,Putti,1
+Camels,Dogs,1
+Camels,Lamentation,1
+Camels,Lions,1
+Camels,Owls,1
+Cameos,Men,1
+Cameos,Mothers,1
+Cameos,Saints,1
+Cannons,Children,1
+Cannons,Jesus,1
+Cannons,Judas,1
+Cannons,Men,1
+Castles,Armor,1
+Castles,Bedrooms,1
+Castles,Boats,1
+Castles,Cows,1
+Castles,Deer,1
+Castles,Diana,1
+Castles,Dogs,1
+Castles,Hercules,1
+Castles,Juno,1
+Castles,Landscapes,1
+Castles,Maps,1
+Castles,Ships,1
+Castles,Tents,1
+Castles,Women,1
+Cats,Birds,1
+Cats,Camels,1
+Cats,Dogs,1
+Cats,Elephants,1
+Cats,Lamentation,1
+Cats,Lions,1
+Cats,Men,1
+Cats,Monkeys,1
+Cats,Owls,1
+Cats,Roses,1
+Cats,Women,1
+Centaurs,Dragons,2
+Centaurs,Horses,1
+Centaurs,Men,1
+Centaurs,Tents,1
+Centaurs,Trojan War,1
+Chariots,Horses,2
+Chariots,Men,1
+Chariots,Moon,1
+Chess,Men,1
+Children,Christ,1
+Children,Jesus,1
+Children,Judas,1
+Children,Men,4
+Children,Musicians,1
+Children,Mythical Creatures,1
+Children,Saint Peter,1
+Children,Women,2
+Christ,Adam,1
+Christ,Adoration of the Magi,8
+Christ,Adoration of the Shepherds,1
+Christ,Agony in the Garden,1
+Christ,Angels,3
+Christ,Animals,2
+Christ,Annunciation,4
+Christ,Apostles,8
+Christ,Bearing the Cross,4
+Christ,Birds,3
+Christ,Bulls,1
+Christ,Camels,1
+Christ,Cats,1
+Christ,Coronation of the Virgin,1
+Christ,Cross,12
+Christ,Crucifixion,41
+Christ,David,2
+Christ,Death of the Virgin,1
+Christ,Descent from the Cross,4
+Christ,Dogs,1
+Christ,Donkeys,6
+Christ,Doors,1
+Christ,Doves,1
+Christ,Eagles,3
+Christ,Elephants,1
+Christ,Entombment,3
+Christ,Evangelists,4
+Christ,Flagellation,2
+Christ,Goats,1
+Christ,God the Father,1
+Christ,Heads,1
+Christ,Hell,1
+Christ,Judas,4
+Christ,Keys,1
+Christ,Lamentation,1
+Christ,Last Judgement,2
+Christ,Last Supper,2
+Christ,Lions,2
+Christ,Madonna and Child,6
+Christ,Mary Magdalene,1
+Christ,Men,18
+Christ,Nativity,4
+Christ,Owls,1
+Christ,Reliquaries,2
+Christ,Saint Christopher,1
+Christ,Saint John,3
+Christ,Saint John the Baptist,5
+Christ,Saint John the Evangelist,6
+Christ,Saint Joseph,3
+Christ,Saint Mark,2
+Christ,Saint Matthew,2
+Christ,Saint Paul,2
+Christ,Saint Peter,4
+Christ,Saints,14
+Christ,Sculpture,1
+Christ,Sheep,1
+Christ,Soldiers,2
+Christ,Swords,1
+Christ,Tabernacles,1
+Christ,Temples,1
+Christ,Virgin Mary,99
+Christ,Visitation,1
+Christ,Women,11
+Christ,Zeus,1
+Churches,Dragons,1
+Churches,Saints,1
+Coat of Arms,Apostles,1
+Coat of Arms,Boxes,1
+Coat of Arms,Christ,1
+Coat of Arms,Evangelists,1
+Coat of Arms,Lions,1
+Coat of Arms,Mary Magdalene,1
+Coat of Arms,Saints,2
+Coins,Coat of Arms,1
+Coins,Human Figures,1
+Coins,Insignia,1
+Columns,Armor,1
+Columns,Bedrooms,1
+Columns,Castles,1
+Columns,Cows,1
+Columns,Diana,1
+Columns,Dogs,1
+Columns,Hercules,1
+Columns,Infants,1
+Columns,Juno,1
+Columns,Women,1
+Coptic,Documents,137
+Coptic,Greek,2
+Couples,Men,6
+Couples,Pegasus,1
+Couples,Women,6
+Cows,Adoration of the Magi,1
+Cows,Dogs,1
+Cows,Women,1
+Crabs,Games,1
+Crabs,Zodiac,1
+Cross,Adam,1
+Cross,Angels,4
+Cross,Christ,7
+Cross,Coat of Arms,1
+Cross,Coins,1
+Cross,Croziers,1
+Cross,Crucifixion,8
+Cross,Descent from the Cross,1
+Cross,Emblems,2
+Cross,Evangelists,1
+Cross,Human Figures,3
+Cross,Insignia,2
+Cross,Jesus,3
+Cross,Lions,1
+Cross,Ox,1
+Cross,Saints,6
+Cross,Vases,1
+Cross,Virgin Mary,4
+Crucifixion,Adoration of the Magi,2
+Crucifixion,Angels,12
+Crucifixion,Apostles,2
+Crucifixion,Bearing the Cross,1
+Crucifixion,Christ,37
+Crucifixion,Coat of Arms,1
+Crucifixion,Demons,1
+Crucifixion,Descent from the Cross,2
+Crucifixion,Donkeys,1
+Crucifixion,Entombment,2
+Crucifixion,Evangelists,1
+Crucifixion,God the Father,1
+Crucifixion,Horses,2
+Crucifixion,Jesus,2
+Crucifixion,Last Supper,5
+Crucifixion,Madonna and Child,2
+Crucifixion,Men,2
+Crucifixion,Nativity,7
+Crucifixion,Pilate,1
+Crucifixion,Punishment,1
+Crucifixion,Resurrection,1
+Crucifixion,Saint John,1
+Crucifixion,Saint Paul,1
+Crucifixion,Saint Peter,1
+Crucifixion,Saints,14
+Crucifixion,Soldiers,2
+Crucifixion,Virgin Mary,19
+Crucifixion,Visitation,2
+Crucifixion,Women,1
+Dancing,Musicians,1
+David,Apostles,1
+David,Crucifixion,1
+David,Eve,1
+David,Last Supper,1
+David,Warriors,1
+Death,Beds,1
+Death of the Virgin,Angels,1
+Death of the Virgin,Coronation of the Virgin,1
+Death of the Virgin,Saint Paul,1
+Death of the Virgin,Saint Peter,1
+Death of the Virgin,Virgin Mary,1
+Deer,Allegory,1
+Deer,Animals,1
+Deer,Bow and Arrow,1
+Deer,Dogs,10
+Deer,Drinking,1
+Deer,Elephants,1
+Deer,Flowers,3
+Deer,Horns,1
+Deer,Horses,1
+Deer,Hunting,1
+Deer,Lakes,1
+Deer,Lions,1
+Deer,Men,2
+Deer,Rams,2
+Deer,Sheep,1
+Deer,Women,1
+Deer,Working,1
+Demons,Angels,1
+Demons,Christ,2
+Demons,Last Judgement,1
+Demons,Saint Peter,1
+Demons,Virgin Mary,1
+Descent from the Cross,Christ,5
+Descent from the Cross,Crucifixion,1
+Descent from the Cross,Death,1
+Descent from the Cross,Entombment,2
+Descent from the Cross,Last Supper,1
+Descent from the Cross,Men,1
+Descent from the Cross,Skulls,1
+Descent from the Cross,Virgin Mary,5
+Desks,Lions,1
+Desks,Saint Mark,1
+Desks,Writing,1
+Devil,Jesus,1
+Diana,Cows,1
+Diana,Juno,1
+Dionysus,Leopards,1
+Dionysus,Men,1
+Doctors,Christ,1
+Documents,Coptic,2
+Documents,Greek,14
+Dogs,Allegory,1
+Dogs,Animals,1
+Dogs,Armor,1
+Dogs,Bedrooms,1
+Dogs,Beds,1
+Dogs,Birds,1
+Dogs,Boars,1
+Dogs,Bow and Arrow,1
+Dogs,Castles,1
+Dogs,Cows,1
+Dogs,Deer,2
+Dogs,Diana,1
+Dogs,Eagles,1
+Dogs,Elephants,1
+Dogs,Flowers,3
+Dogs,Games,1
+Dogs,Goats,1
+Dogs,Hawks,1
+Dogs,Hercules,1
+Dogs,Horns,1
+Dogs,Horses,2
+Dogs,Hunting,1
+Dogs,Infants,1
+Dogs,Juno,1
+Dogs,Knights,1
+Dogs,Lakes,1
+Dogs,Lamentation,1
+Dogs,Lions,2
+Dogs,Men,1
+Dogs,Moses,1
+Dogs,Owls,1
+Dogs,Rabbits,1
+Dogs,Rams,1
+Dogs,Trees,2
+Dogs,Virgin Mary,1
+Dogs,Visitation,1
+Dogs,Women,3
+Donkeys,Adoration of the Magi,3
+Donkeys,Angels,1
+Donkeys,Christ,5
+Donkeys,Cows,1
+Donkeys,Crucifixion,3
+Donkeys,Descent from the Cross,1
+Donkeys,Dogs,1
+Donkeys,Holy Family,1
+Donkeys,Horses,1
+Donkeys,Jesus,7
+Donkeys,Judas,2
+Donkeys,Last Supper,3
+Donkeys,Madonna and Child,2
+Donkeys,Men,2
+Donkeys,Nativity,3
+Donkeys,Ox,3
+Donkeys,Saint Joseph,2
+Donkeys,Saints,1
+Donkeys,Soldiers,1
+Donkeys,Virgin Mary,4
+Donkeys,Women,1
+Doors,Annunciation,1
+Doves,Annunciation,1
+Doves,Birds,1
+Doves,Virgin Mary,2
+Dragons,Andromeda,1
+Dragons,Assumption of the Virgin,1
+Dragons,Chess,1
+Dragons,Dogs,1
+Dragons,Griffins,1
+Dragons,Horses,3
+Dragons,Men,3
+Dragons,Monks,1
+Dragons,Saint George,4
+Dragons,Saint Michael,2
+Dragons,Saints,2
+Dragons,Swords,2
+Dragons,Women,1
+Dragons,Writing,1
+Drinking,Men,1
+Drinking,Women,1
+Eagles,Angels,3
+Eagles,Bulls,1
+Eagles,Christ,1
+Eagles,Cross,1
+Eagles,Deer,2
+Eagles,Dogs,1
+Eagles,Dragons,1
+Eagles,Elephants,1
+Eagles,Evangelists,1
+Eagles,Fish,1
+Eagles,Flowers,1
+Eagles,Games,2
+Eagles,Goats,1
+Eagles,Lambs,2
+Eagles,Lions,2
+Eagles,Medallions,1
+Eagles,Men,2
+Eagles,Mermaids,1
+Eagles,Ox,2
+Eagles,Rabbits,1
+Eagles,Reliquaries,1
+Eagles,Saint George,1
+Eagles,Saint John the Evangelist,3
+Eagles,Saint Mark,1
+Eagles,Saint Matthew,1
+Eagles,Saint Paul,1
+Eagles,Saint Peter,1
+Eagles,Sun,1
+Eagles,Unicorns,1
+Elephants,Birds,1
+Elephants,Camels,1
+Elephants,Deer,1
+Elephants,Dogs,1
+Elephants,Games,1
+Elephants,Goats,1
+Elephants,Lamentation,1
+Elephants,Lions,1
+Elephants,Owls,1
+Emperors,Chariots,1
+Emperors,Coins,1
+Emperors,Horses,1
+Emperors,Men,12
+Emperors,Profiles,3
+Entombment,Angels,3
+Entombment,Christ,7
+Entombment,Crucifixion,1
+Entombment,Death,1
+Entombment,Virgin Mary,4
+Eros,Bulls,1
+Eros,Mythical Creatures,1
+Eros,Putti,1
+Evangelists,Adam,1
+Evangelists,Angels,2
+Evangelists,Apostles,1
+Evangelists,Christ,1
+Evangelists,Eagles,1
+Evangelists,Lions,1
+Evangelists,Saint John,1
+Evangelists,Saint John the Evangelist,1
+Evangelists,Saint Mark,2
+Evangelists,Saint Matthew,2
+Evangelists,Saints,1
+Evangelists,Virgin Mary,1
+Eve,Christ,1
+Eve,Crucifixion,1
+Eve,Nativity,1
+Eve,Working,1
+Faces,Coins,1
+Faces,Flowers,2
+Faces,Human Figures,2
+Faces,Men,1
+Faces,Profiles,2
+Falcons,Horses,1
+Falcons,Men,2
+Falcons,Trees,2
+Falcons,Women,4
+Feet,Hands,1
+Female Nudes,Dolphins,1
+Fish,Boats,1
+Fish,Monkeys,1
+Fishing,Boats,1
+Fishing,Fish,1
+Flagellation,Birds,1
+Flagellation,Men,1
+Flowers,Dogs,1
+Flowers,Horses,1
+Flowers,Leaves,2
+Flowers,Madonna and Child,1
+Flowers,Men,1
+Flowers,Women,1
+Fountains,Lions,1
+Foxes,Birds,1
+Fruit,Children,1
+Fruit,Mythical Creatures,1
+Games,Chess,3
+Games,Deer,1
+Games,Dragons,1
+Games,Flowers,1
+Games,Hercules,1
+Games,Horses,2
+Games,Men,2
+Games,Playing,2
+Games,Women,1
+Gardens,Chess,1
+Gardens,Games,1
+Gardens,Men,1
+Gardens,Playing Cards,1
+Gardens,Women,1
+Goats,Deer,1
+Goats,Games,1
+Goats,Sheep,2
+God the Father,Angels,1
+God the Father,Annunciation,1
+God the Father,Archangel Gabriel,1
+God the Father,Crucifixion,1
+God the Father,Deer,1
+God the Father,Griffins,1
+God the Father,Jesus,1
+God the Father,Lions,1
+God the Father,Madonna and Child,1
+God the Father,Ox,1
+God the Father,Rams,1
+God the Father,Saint John the Baptist,1
+God the Father,Saint John the Evangelist,1
+God the Father,Saints,1
+God the Father,Virgin Mary,1
+Goliath,Battles,1
+Goliath,David,1
+Goliath,Men,1
+Grapes,Leaves,3
+Grapes,Men,1
+Grapes,Vines,1
+Griffins,Coat of Arms,1
+Griffins,Deer,2
+Griffins,Lions,1
+Griffins,Ox,1
+Griffins,Rams,1
+Harps,Human Figures,1
+Hawks,Animals,1
+Hawks,Bow and Arrow,1
+Hawks,Deer,2
+Hawks,Drinking,1
+Hawks,Horses,1
+Hawks,Hunting,1
+Hawks,Men,2
+Hawks,Rams,1
+Hawks,Sheep,1
+Hawks,Trees,1
+Hawks,Women,1
+Heads,David,1
+Heads,Holofernes,1
+Heads,Joseph,1
+Heads,Kings,1
+Heads,Men,12
+Heads,Profiles,1
+Heads,Saint John the Baptist,1
+Heads,Women,4
+Hell,Last Judgement,1
+Hercules,Cows,1
+Hercules,Diana,1
+Hercules,Horses,1
+Hercules,Juno,1
+Hercules,Lions,1
+Hercules,Men,1
+Holofernes,Women,1
+Holy Family,Donkeys,1
+Holy Family,Jesus,2
+Holy Family,Nativity,2
+Holy Family,Ox,1
+Horns,Allegory,1
+Horns,Deer,1
+Horns,Dogs,2
+Horns,Saints,1
+Horses,Adoration of the Magi,2
+Horses,Amazons,1
+Horses,Andromache,1
+Horses,Animals,2
+Horses,Battles,1
+Horses,Bearing the Cross,1
+Horses,Birds,1
+Horses,Boars,1
+Horses,Boats,2
+Horses,Bow and Arrow,1
+Horses,Chess,2
+Horses,Christ,6
+Horses,Churches,1
+Horses,Cows,1
+Horses,Crucifixion,4
+Horses,Descent from the Cross,1
+Horses,Dogs,2
+Horses,Donkeys,1
+Horses,Dragons,4
+Horses,Drinking,1
+Horses,Entombment,1
+Horses,God the Father,1
+Horses,Griffins,1
+Horses,Heads,1
+Horses,Holofernes,1
+Horses,Human Figures,3
+Horses,Hunting,4
+Horses,Jesus,1
+Horses,Judith,1
+Horses,Kings,1
+Horses,Knights,3
+Horses,Lions,1
+Horses,Madonna and Child,1
+Horses,Men,23
+Horses,Musical Instruments,1
+Horses,Profiles,1
+Horses,Saint George,1
+Horses,Saint John the Baptist,1
+Horses,Saint John the Evangelist,1
+Horses,Saints,3
+Horses,Samson,1
+Horses,Sculpture,1
+Horses,Serpents,1
+Horses,Sheep,1
+Horses,Soldiers,4
+Horses,Spears,1
+Horses,Swords,1
+Horses,Tents,1
+Horses,Trojan War,1
+Horses,Women,9
+Human Figures,Angels,1
+Human Figures,Animals,4
+Human Figures,Boars,1
+Human Figures,Boats,1
+Human Figures,Books,1
+Human Figures,Bow and Arrow,1
+Human Figures,Christ,2
+Human Figures,Coins,1
+Human Figures,Cross,1
+Human Figures,Dragons,1
+Human Figures,Horses,3
+Human Figures,Hunting,1
+Human Figures,Insignia,1
+Human Figures,Kings,1
+Human Figures,Lambs,1
+Human Figures,Lions,1
+Human Figures,Portraits,2
+Human Figures,Prisons,1
+Human Figures,Profiles,1
+Human Figures,Putti,1
+Human Figures,Sadness,1
+Human Figures,Saint Peter,1
+Hunting,Animals,1
+Hunting,Boars,3
+Hunting,Deer,4
+Hunting,Dogs,5
+Hunting,Drinking,1
+Hunting,Horns,1
+Hunting,Horses,1
+Hunting,Human Figures,1
+Hunting,Lakes,1
+Hunting,Men,1
+Hunting,Putti,1
+Hunting,Serpents,1
+Hunting,Sheep,1
+Hunting,Snakes,1
+Hunting,Vines,1
+Hunting,Women,1
+Illness,Men,1
+Illness,Women,1
+Infants,Armor,1
+Infants,Baptismal Fonts,1
+Infants,Bedrooms,1
+Infants,Beds,1
+Infants,Birth,1
+Infants,Castles,1
+Infants,Cows,1
+Infants,Diana,1
+Infants,Dogs,1
+Infants,Hercules,1
+Infants,Juno,1
+Infants,Men,4
+Infants,Saint Anne,1
+Infants,Virgin Mary,1
+Infants,Women,8
+Jesus,Adoration of the Magi,4
+Jesus,Angels,2
+Jesus,Annunciation,1
+Jesus,Baptism of Christ,1
+Jesus,Beds,1
+Jesus,Cows,1
+Jesus,Crowd,1
+Jesus,Crucifixion,2
+Jesus,Dogs,1
+Jesus,Grapes,1
+Jesus,Horses,1
+Jesus,Judas,1
+Jesus,Last Judgement,1
+Jesus,Last Supper,1
+Jesus,Madonna and Child,1
+Jesus,Nativity,5
+Jesus,Ox,2
+Jesus,Saint Anne,1
+Jesus,Saints,4
+Jesus,Virgin Mary,10
+Jesus,Women,1
+Joseph,Men,1
+Judas,Agony in the Garden,2
+Judas,Animals,1
+Judas,Apostles,1
+Judas,Bearing the Cross,1
+Judas,Christ,3
+Judas,Crucifixion,4
+Judas,Last Supper,3
+Judas,Men,3
+Judas,Virgin Mary,1
+Judas,Women,1
+Judith,Heads,1
+Judith,Holofernes,1
+Judith,Women,1
+Juno,Cows,1
+Kings,Baptismal Fonts,1
+Kings,Bishops,1
+Kings,Ceres,1
+Kings,Chess,1
+Kings,Coat of Arms,3
+Kings,Coins,2
+Kings,David,1
+Kings,Eve,1
+Kings,Men,5
+Kings,Portraits,1
+Kings,Profiles,1
+Kings,Queens,2
+Kings,Saints,1
+Kings,Servants,1
+Kings,Women,2
+Knights,Chess,1
+Knights,Dragons,1
+Knights,Games,1
+Knights,Horses,1
+Knights,Lions,1
+Lambs,Angels,1
+Lambs,Christ,1
+Lambs,Cross,1
+Lambs,Evangelists,1
+Lambs,Lions,1
+Lambs,Ox,1
+Lambs,Women,1
+Lamentation,Christ,1
+Lamentation,Owls,1
+Lamentation,Virgin Mary,1
+Landscapes,Boats,1
+Landscapes,Deer,1
+Landscapes,Dogs,1
+Landscapes,Women,1
+Last Judgement,Christ,1
+Last Judgement,Saint Peter,1
+Last Judgement,Virgin Mary,1
+Last Supper,Apostles,2
+Last Supper,Christ,4
+Last Supper,Men,1
+Last Supper,Virgin Mary,2
+Leaves,Cross,1
+Leaves,Madonna and Child,1
+Leaves,Vases,1
+Leaves,Vines,2
+Leopards,Coat of Arms,1
+Lilies,Angels,1
+Lilies,Annunciation,1
+Lilies,Archangel Gabriel,1
+Lilies,God the Father,1
+Lilies,Virgin Mary,1
+Lions,Amazons,1
+Lions,Angels,4
+Lions,Birds,2
+Lions,Boars,1
+Lions,Bow and Arrow,1
+Lions,Bulls,1
+Lions,Christ,1
+Lions,Deer,2
+Lions,Dogs,2
+Lions,Eagles,4
+Lions,Elephants,2
+Lions,Falcons,1
+Lions,Games,1
+Lions,Goats,1
+Lions,Horses,2
+Lions,Kings,1
+Lions,Lamentation,1
+Lions,Male Nudes,1
+Lions,Men,2
+Lions,Mermaids,1
+Lions,Owls,1
+Lions,Queens,1
+Lions,Rams,1
+Lions,Saint Paul,1
+Lions,Saint Peter,1
+Lions,Samson,2
+Lions,Shields,1
+Lions,Unicorns,2
+Lions,Women,1
+Lovers,Women,2
+Madonna and Child,Adoration of the Magi,5
+Madonna and Child,Angels,10
+Madonna and Child,Annunciation,1
+Madonna and Child,Christ,7
+Madonna and Child,Coronation of the Virgin,1
+Madonna and Child,Cradles,1
+Madonna and Child,Cross,1
+Madonna and Child,Croziers,1
+Madonna and Child,Crucifixion,7
+Madonna and Child,Insignia,1
+Madonna and Child,Jesus,2
+Madonna and Child,Mary Magdalene,1
+Madonna and Child,Moses,1
+Madonna and Child,Nativity,2
+Madonna and Child,Noah,1
+Madonna and Child,Nursing,2
+Madonna and Child,Roses,1
+Madonna and Child,Saint Catherine,1
+Madonna and Child,Saint Jerome,1
+Madonna and Child,Saint John the Baptist,3
+Madonna and Child,Saint John the Evangelist,1
+Madonna and Child,Saint Paul,2
+Madonna and Child,Saint Peter,2
+Madonna and Child,Saint Sebastian,1
+Madonna and Child,Saints,8
+Madonna and Child,Virgin Mary,5
+Male Nudes,Dragons,1
+Male Nudes,Women,1
+Mary Magdalene,Christ,5
+Mary Magdalene,Crucifixion,3
+Mary Magdalene,Descent from the Cross,1
+Mary Magdalene,Jesus,1
+Mary Magdalene,Resurrection,1
+Mary Magdalene,Saint John the Evangelist,3
+Mary Magdalene,Saints,2
+Mary Magdalene,Virgin Mary,6
+Masks,Lions,1
+Masks,Lotuses,2
+Medallions,Dragons,1
+Medallions,Horses,1
+Medallions,Men,1
+Medallions,Saints,1
+Men,Adoration of the Magi,2
+Men,Andromache,1
+Men,Andromeda,1
+Men,Angels,5
+Men,Animals,2
+Men,Annunciation,1
+Men,Apocalypse,2
+Men,Apostles,3
+Men,Assumption of the Virgin,1
+Men,Bagpipes,1
+Men,Beds,2
+Men,Birds,3
+Men,Bishops,3
+Men,Boars,2
+Men,Boats,4
+Men,Bow and Arrow,1
+Men,Boys,1
+Men,Ceres,1
+Men,Chess,2
+Men,Christ,21
+Men,Churches,1
+Men,Coat of Arms,7
+Men,Coins,2
+Men,Cornucopia,1
+Men,Coronation of the Virgin,1
+Men,Cows,1
+Men,Cross,13
+Men,Crowd,1
+Men,Croziers,2
+Men,Crucifixion,6
+Men,Dancers,1
+Men,Dancing,1
+Men,David,2
+Men,Death,5
+Men,Deer,3
+Men,Descent from the Cross,3
+Men,Dining,1
+Men,Doctors,2
+Men,Dogs,9
+Men,Donkeys,5
+Men,Dragons,3
+Men,Eagles,1
+Men,Elephants,1
+Men,Emblems,1
+Men,Entombment,3
+Men,Evangelists,1
+Men,Falcons,1
+Men,Fish,1
+Men,Fishing,1
+Men,Flowers,3
+Men,Games,2
+Men,Grapes,1
+Men,Griffins,1
+Men,Harps,1
+Men,Heads,1
+Men,Herod,1
+Men,Horses,16
+Men,Hunting,6
+Men,Infants,1
+Men,Jesus,8
+Men,Joshua,2
+Men,Judas,2
+Men,Kings,2
+Men,Knights,2
+Men,Lambs,1
+Men,Last Supper,1
+Men,Leaves,1
+Men,Leopards,1
+Men,Lions,2
+Men,Lovers,2
+Men,Madonna and Child,9
+Men,Mary Magdalene,1
+Men,Monsters,1
+Men,Moses,3
+Men,Mothers,1
+Men,Music,2
+Men,Musicians,2
+Men,Mythical Creatures,1
+Men,Nativity,1
+Men,Noah,1
+Men,Peacocks,2
+Men,Pegasus,1
+Men,Pilate,1
+Men,Popes,1
+Men,Portraits,9
+Men,Praying,1
+Men,Princes,1
+Men,Profiles,14
+Men,Punishment,1
+Men,Rabbits,1
+Men,Rams,1
+Men,Reading,2
+Men,Roosters,1
+Men,Roses,2
+Men,Saint Francis,1
+Men,Saint John,1
+Men,Saint John the Baptist,1
+Men,Saint Mark,1
+Men,Saint Matthew,1
+Men,Saint Paul,2
+Men,Saint Peter,3
+Men,Saints,34
+Men,Samson,1
+Men,Serpents,1
+Men,Sheep,1
+Men,Shepherds,1
+Men,Ships,1
+Men,Soldiers,1
+Men,Tables,2
+Men,Tents,1
+Men,Tombs,1
+Men,Trees,2
+Men,Trojan War,2
+Men,Trumpets,1
+Men,Violins,1
+Men,Virgin Mary,7
+Men,Visitation,1
+Men,Women,101
+Men,Working,1
+Men,Writing,1
+Menelaus,Animals,1
+Menelaus,Men,1
+Mermaids,Deer,1
+Mermaids,Dogs,1
+Mermaids,Elephants,1
+Mermaids,Games,1
+Mermaids,Goats,1
+Mermaids,Unicorns,1
+Monkeys,Men,1
+Monkeys,Roses,1
+Monkeys,Women,1
+Monsters,Boats,1
+Moses,Coronation of the Virgin,1
+Moses,Noah,1
+Mothers,Saints,1
+Music,Angels,1
+Music,Apostles,1
+Music,Bagpipes,1
+Music,Men,1
+Music,Sheep,1
+Music,Shepherds,1
+Music,Trumpets,1
+Music,Women,1
+Musical Instruments,Angels,1
+Musical Instruments,Boys,1
+Musical Instruments,Men,3
+Musical Instruments,Shields,1
+Musical Instruments,Weapons,1
+Musical Instruments,Women,2
+Musicians,Horses,1
+Nativity,Adoration of the Magi,1
+Nativity,Angels,7
+Nativity,Annunciation,2
+Nativity,Bearing the Cross,1
+Nativity,Beds,1
+Nativity,Christ,7
+Nativity,Crucifixion,2
+Nativity,Donkeys,1
+Nativity,Evangelists,1
+Nativity,Jesus,3
+Nativity,Madonna and Child,1
+Nativity,Ox,3
+Nativity,Resurrection,1
+Nativity,Saint John the Baptist,1
+Nativity,Saint John the Evangelist,1
+Nativity,Saint Joseph,1
+Nativity,Saints,5
+Nativity,Virgin Mary,9
+Nativity,Visitation,2
+Noah,Coat of Arms,1
+Noah,Coronation of the Virgin,1
+Ox,Angels,1
+Ox,Christ,1
+Ox,Deer,1
+Ox,Evangelists,1
+Ox,Jesus,1
+Ox,Lambs,1
+Ox,Lions,2
+Ox,Rams,1
+Ox,Saint Luke,1
+Peacocks,Deer,1
+Peacocks,Dogs,1
+Peacocks,Horses,1
+Peacocks,Rabbits,1
+Peacocks,Saint Peter,1
+Perseus,Andromeda,1
+Perseus,Dragons,1
+Perseus,Men,1
+Perseus,Swords,1
+Perseus,Women,1
+Pheasants,Rabbits,1
+Pheasants,Wreaths,1
+Pilate,Christ,1
+Playing,Flowers,1
+Playing Cards,Chess,1
+Playing Cards,Games,1
+Playing Cards,Men,1
+Playing Cards,Women,1
+Pomegranates,Flowers,1
+Portraits,Cross,2
+Portraits,Saints,1
+Portraits,Women,4
+Praying,David,1
+Praying,Kings,1
+Praying,Men,1
+Praying,Princes,1
+Praying,Queens,1
+Praying,Women,1
+Prisons,Saint Peter,1
+Profiles,Coat of Arms,1
+Profiles,Coins,2
+Profiles,Flowers,2
+Profiles,Men,2
+Profiles,Music,1
+Profiles,Women,3
+Putti,Animals,1
+Putti,Apostles,1
+Putti,Boars,1
+Putti,Vines,1
+Queens,Coins,1
+Queens,Knights,1
+Queens,Men,1
+Queens,Women,2
+Rabbits,Boars,1
+Rabbits,Eagles,1
+Rabbits,Games,1
+Rabbits,Wreaths,1
+Rams,David,1
+Reading,Dragons,1
+Reliquaries,Angels,1
+Reliquaries,Christ,1
+Reliquaries,Crucifixion,1
+Reliquaries,Emblems,1
+Reliquaries,Saints,1
+Resurrection,Angels,1
+Resurrection,Christ,3
+Resurrection,Crucifixion,1
+Resurrection,Donkeys,1
+Resurrection,Horses,1
+Resurrection,Men,1
+Resurrection,Samson,1
+Resurrection,Virgin Mary,2
+Rings,Shells,1
+Roosters,Dogs,1
+Roosters,Elephants,1
+Roses,Armor,1
+Roses,Bedrooms,1
+Roses,Castles,1
+Roses,Columns,1
+Roses,Cows,1
+Roses,Diana,1
+Roses,Dogs,1
+Roses,Hercules,1
+Roses,Infants,1
+Roses,Juno,1
+Roses,Men,1
+Roses,Women,1
+Sadness,Beds,1
+Sadness,Death,2
+Sadness,Entombment,1
+Sadness,Men,3
+Saint Anne,Birth,1
+Saint Anne,Books,1
+Saint Anne,Saints,1
+Saint Anne,Virgin Mary,1
+Saint Catherine,Insignia,1
+Saint Catherine,Men,1
+Saint Catherine,Saint Francis,1
+Saint Catherine,Women,1
+Saint Christopher,Angels,1
+Saint Christopher,Christ,3
+Saint Francis,Angels,1
+Saint Francis,Birds,1
+Saint Francis,Insignia,1
+Saint George,Dragons,1
+Saint George,Men,1
+Saint Helena,Cross,1
+Saint Jerome,Insignia,1
+Saint John,Christ,2
+Saint John,Crucifixion,1
+Saint John,Mary Magdalene,1
+Saint John,Saint Matthew,1
+Saint John,Virgin Mary,3
+Saint John the Baptist,Angels,1
+Saint John the Baptist,Animals,1
+Saint John the Baptist,Baptism of Christ,1
+Saint John the Baptist,Christ,4
+Saint John the Baptist,Cross,1
+Saint John the Baptist,Crucifixion,2
+Saint John the Baptist,Evangelists,1
+Saint John the Baptist,Herod,1
+Saint John the Baptist,Lambs,1
+Saint John the Baptist,Men,1
+Saint John the Baptist,Saint John the Evangelist,3
+Saint John the Baptist,Saint Paul,1
+Saint John the Baptist,Tables,1
+Saint John the Baptist,Virgin Mary,3
+Saint John the Baptist,Women,2
+Saint John the Evangelist,Angels,2
+Saint John the Evangelist,Apostles,1
+Saint John the Evangelist,Birds,1
+Saint John the Evangelist,Christ,3
+Saint John the Evangelist,Crucifixion,7
+Saint John the Evangelist,Emblems,1
+Saint John the Evangelist,Entombment,1
+Saint John the Evangelist,Jesus,1
+Saint John the Evangelist,Resurrection,1
+Saint John the Evangelist,Saint Mark,1
+Saint John the Evangelist,Saint Matthew,1
+Saint John the Evangelist,Samson,1
+Saint John the Evangelist,Virgin Mary,6
+Saint John the Evangelist,Writing,2
+Saint Joseph,Angels,1
+Saint Joseph,Jesus,2
+Saint Joseph,Saint Anne,1
+Saint Joseph,Virgin Mary,2
+Saint Luke,Evangelists,1
+Saint Luke,Men,2
+Saint Luke,Saint John,1
+Saint Luke,Saint Mark,1
+Saint Luke,Saint Matthew,1
+Saint Mark,Lions,1
+Saint Mark,Saint John,1
+Saint Mark,Saint Matthew,3
+Saint Mark,Writing,1
+Saint Michael,Croziers,1
+Saint Paul,Angels,2
+Saint Paul,Calendars,1
+Saint Paul,Christ,2
+Saint Paul,Saint Peter,9
+Saint Paul,Virgin Mary,2
+Saint Paul,Zodiac,1
+Saint Peter,Angels,2
+Saint Peter,Calendars,1
+Saint Peter,Christ,2
+Saint Peter,Men,2
+Saint Peter,Saint John the Baptist,1
+Saint Peter,Saint Paul,2
+Saint Peter,Saints,1
+Saint Peter,Virgin Mary,3
+Saint Peter,Zodiac,1
+Saint Sebastian,Saint Jerome,1
+Saints,Angels,9
+Saints,Beds,1
+Saints,Bishops,1
+Saints,Bow and Arrow,1
+Saints,Christ,9
+Saints,Coat of Arms,2
+Saints,Cross,1
+Saints,Croziers,1
+Saints,Dragons,1
+Saints,God the Father,1
+Saints,Heads,1
+Saints,Horses,1
+Saints,Madonna and Child,2
+Saints,Men,7
+Saints,Saint Jerome,1
+Saints,Saint Sebastian,1
+Saints,Shells,1
+Saints,Virgin Mary,5
+Saints,Women,4
+Saints,Writing,1
+Samson,Christ,1
+Samson,Donkeys,1
+Samson,Games,1
+Samson,Men,1
+Sculpture,Apostles,1
+Sculpture,Crucifixion,1
+Sculpture,Death,1
+Sculpture,Dragons,1
+Sculpture,Heads,1
+Sculpture,Human Figures,1
+Sculpture,Men,2
+Sculpture,Saint John the Evangelist,1
+Sculpture,Saints,1
+Sculpture,Women,3
+Serpents,Men,1
+Serpents,Moses,1
+Sheep,Drinking,1
+Sheep,Men,1
+Sheep,Women,1
+Shepherds,Bagpipes,1
+Shepherds,Sheep,1
+Shields,Boys,2
+Shields,Children,1
+Shields,Cross,1
+Shields,Madonna and Child,1
+Shields,Men,1
+Shields,Spears,1
+Ships,Maps,1
+Singing,Monks,1
+Skeletons,Lovers,1
+Skeletons,Men,2
+Skeletons,Skulls,1
+Skeletons,Women,1
+Skulls,Christ,2
+Skulls,Crucifixion,1
+Skulls,Men,1
+Skulls,Virgin Mary,1
+Skulls,Women,1
+Snakes,Adam,3
+Snakes,Deer,1
+Snakes,Eve,3
+Snakes,God the Father,1
+Snakes,Griffins,1
+Snakes,Lions,1
+Snakes,Ox,1
+Snakes,Rams,1
+Soldiers,Angels,1
+Soldiers,Christ,5
+Soldiers,Cross,1
+Soldiers,Crowd,1
+Soldiers,Griffins,1
+Soldiers,Jesus,3
+Soldiers,Judas,2
+Soldiers,Madonna and Child,1
+Soldiers,Men,10
+Soldiers,Sadness,1
+Soldiers,Saint John the Evangelist,1
+Soldiers,Shields,2
+Soldiers,Spears,1
+Soldiers,Swords,3
+Soldiers,Virgin Mary,2
+Soldiers,Women,1
+Spears,David,1
+Spears,Deer,1
+Spears,Dogs,1
+Spears,Hunting,1
+Spears,Madonna and Child,1
+Spears,Men,1
+Spears,Profiles,1
+Spears,Swords,1
+Spears,Women,1
+Stars,Angels,1
+Stars,Cross,2
+Stars,Emblems,1
+Sun,Flowers,1
+Swords,Andromeda,1
+Swords,Horses,1
+Swords,Jesus,1
+Swords,Kings,1
+Swords,Madonna and Child,1
+Swords,Men,9
+Swords,Saint Paul,1
+Swords,Saints,1
+Swords,Women,3
+Tables,Herod,1
+Temples,Men,1
+Tents,Maps,1
+Tents,Ships,1
+Tombs,Angels,1
+Tombs,Apostles,1
+Tombs,Saints,1
+Tombs,Virgin Mary,1
+Tombs,Women,3
+Towers,Women,1
+Trees,Animals,1
+Trees,Bow and Arrow,1
+Trees,Deer,1
+Trees,Men,2
+Trees,Rams,1
+Trees,Women,1
+Trojan War,Andromache,1
+Trojan War,Horses,1
+Trojan War,Tents,1
+Trumpets,Angels,2
+Trumpets,Elephants,1
+Trumpets,Roosters,1
+Unicorns,Deer,2
+Unicorns,Dogs,2
+Unicorns,Elephants,2
+Unicorns,Games,1
+Unicorns,Goats,1
+Unicorns,Horses,1
+Unicorns,Knights,1
+Unicorns,Lions,1
+Vines,Human Figures,1
+Violins,Apocalypse,1
+Virgin Mary,Adam,1
+Virgin Mary,Adoration of the Magi,8
+Virgin Mary,Angels,2
+Virgin Mary,Animals,1
+Virgin Mary,Annunciation,7
+Virgin Mary,Apostles,4
+Virgin Mary,Archangel Gabriel,4
+Virgin Mary,Bearing the Cross,1
+Virgin Mary,Birds,3
+Virgin Mary,Birth,1
+Virgin Mary,Camels,1
+Virgin Mary,Cats,1
+Virgin Mary,Christ,5
+Virgin Mary,Coronation of the Virgin,2
+Virgin Mary,Cows,1
+Virgin Mary,Cross,3
+Virgin Mary,Crucifixion,23
+Virgin Mary,Death of the Virgin,1
+Virgin Mary,Descent from the Cross,1
+Virgin Mary,Dogs,2
+Virgin Mary,Donkeys,4
+Virgin Mary,Doves,1
+Virgin Mary,Elephants,1
+Virgin Mary,Entombment,2
+Virgin Mary,Evangelists,2
+Virgin Mary,Hell,1
+Virgin Mary,Horses,1
+Virgin Mary,Jesus,9
+Virgin Mary,Judas,1
+Virgin Mary,Lamentation,1
+Virgin Mary,Last Judgement,3
+Virgin Mary,Lions,1
+Virgin Mary,Madonna and Child,3
+Virgin Mary,Mary Magdalene,2
+Virgin Mary,Men,9
+Virgin Mary,Moses,1
+Virgin Mary,Nativity,3
+Virgin Mary,Noah,1
+Virgin Mary,Owls,1
+Virgin Mary,Ox,1
+Virgin Mary,Putti,1
+Virgin Mary,Reliquaries,2
+Virgin Mary,Saint Anne,2
+Virgin Mary,Saint John,3
+Virgin Mary,Saint John the Baptist,5
+Virgin Mary,Saint John the Evangelist,5
+Virgin Mary,Saint Joseph,3
+Virgin Mary,Saint Paul,1
+Virgin Mary,Saint Peter,1
+Virgin Mary,Saints,10
+Virgin Mary,Soldiers,1
+Virgin Mary,Tabernacles,1
+Virgin Mary,Temples,1
+Virgin Mary,Unicorns,1
+Virgin Mary,Visitation,3
+Virgin Mary,Women,3
+Visitation,Angels,1
+Visitation,Men,1
+Visitation,Saints,1
+Visitation,Virgin Mary,5
+Warriors,David,1
+Warriors,Spears,1
+Weapons,Couples,1
+Weapons,Dragons,1
+Weapons,Flowers,1
+Weapons,Hunting,1
+Weapons,Male Nudes,1
+Weapons,Men,4
+Weapons,Women,1
+Wells,Christ,1
+Wells,Women,1
+Wine,Grapes,1
+Wine,Jesus,1
+Women,Allegory,1
+Women,Andromache,1
+Women,Andromeda,1
+Women,Angels,5
+Women,Annunciation,1
+Women,Armor,1
+Women,Assumption of the Virgin,1
+Women,Bagpipes,1
+Women,Baptismal Fonts,1
+Women,Bedrooms,1
+Women,Beds,1
+Women,Birds,1
+Women,Bishops,1
+Women,Boars,1
+Women,Castles,1
+Women,Chariots,1
+Women,Chess,2
+Women,Christ,11
+Women,Coat of Arms,3
+Women,Cornucopia,2
+Women,Coronation of the Virgin,1
+Women,Cows,1
+Women,Cross,10
+Women,Crucifixion,5
+Women,Dancing,1
+Women,David,2
+Women,Death,3
+Women,Deer,5
+Women,Descent from the Cross,3
+Women,Diana,1
+Women,Dogs,10
+Women,Donkeys,2
+Women,Dragons,3
+Women,Eagles,2
+Women,Elephants,1
+Women,Entombment,2
+Women,Eve,1
+Women,Flowers,2
+Women,Hercules,1
+Women,Herod,1
+Women,Horns,2
+Women,Horses,6
+Women,Hunting,2
+Women,Jesus,1
+Women,Joshua,1
+Women,Juno,1
+Women,Knights,2
+Women,Last Supper,1
+Women,Lions,1
+Women,Madonna and Child,4
+Women,Men,11
+Women,Monkeys,1
+Women,Moses,2
+Women,Music,1
+Women,Musicians,1
+Women,Noah,1
+Women,Pegasus,1
+Women,Pilate,1
+Women,Queens,1
+Women,Rabbits,1
+Women,Roosters,1
+Women,Roses,1
+Women,Saint Catherine,1
+Women,Saint Francis,1
+Women,Saint George,1
+Women,Saints,7
+Women,Sheep,1
+Women,Shepherds,1
+Women,Skeletons,1
+Women,Skulls,1
+Women,Soldiers,1
+Women,Swords,1
+Women,Tables,1
+Women,Trees,2
+Women,Trojan War,1
+Women,Trumpets,1
+Women,Unicorns,1
+Women,Virgin Mary,5
+Women,Visitation,2
+Women,Working,1
+Wreaths,Cross,1
+Writing,Lions,1
+Writing,Monks,1
+Writing,Tables,1
+Zodiac,Calendars,1
+Zodiac,Games,1

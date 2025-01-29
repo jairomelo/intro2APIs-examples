@@ -1,0 +1,3 @@
+Total objects: 7136
+Total terms: 3695
+None count: 5977
